@@ -1,0 +1,1 @@
+Heating -> Increased environmental stress (drought, floods) -> Forests shift to net CO2 emission -> increased CO2 -> heating

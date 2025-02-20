@@ -1,0 +1,1 @@
+Heating -> increase evaporation and water vapor -> water vapor is GHG -> Heating

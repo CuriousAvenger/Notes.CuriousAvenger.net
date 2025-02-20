@@ -1,0 +1,3 @@
+- Soil bacteria that can be free living or symbionts of legumes
+- Rhizobia only fix N in root nodule
+- Nodules: specialized organ for hosting diazotrophs

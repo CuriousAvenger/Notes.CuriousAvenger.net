@@ -1,0 +1,2 @@
+- Have kelp holdfast attach to rocks
+- Fate of organic carbon from kelp is not well understood

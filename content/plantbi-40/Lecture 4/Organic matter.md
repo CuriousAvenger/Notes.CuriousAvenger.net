@@ -1,0 +1,3 @@
+- Plant organic material feeds the root microbiome. 
+- High organic carbon increases water holding properties of soil.
+- Organic compounds can come from plants or adding compost.

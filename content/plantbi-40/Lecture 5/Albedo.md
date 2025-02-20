@@ -1,0 +1,1 @@
+Heating -> polar ice melting increases -> more solar energy absorbed by water and reflected by ice -> heating
