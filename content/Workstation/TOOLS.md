@@ -1,3 +1,7 @@
+---
+title: Tools
+---
+
 tmux
 git
 curl
