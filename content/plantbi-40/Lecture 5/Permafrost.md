@@ -1,1 +1,0 @@
-Heating -> increase permafrost melting and stored carbon decay -> stored CO2 emission -> increase CO2 -> heating

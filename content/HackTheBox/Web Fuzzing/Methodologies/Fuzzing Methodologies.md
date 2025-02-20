@@ -1,0 +1,6 @@
+1 [[Directory & File Fuzzing]]
+2 [[Recursive Fuzzing]]
+3 [[Parameter & Value Fuzzing]]
+4 [[Virtual Host & Subdomain Fuzzing]]
+5 [[Filtering Fuzzing Output]]
+6 [[Validating Findings]]

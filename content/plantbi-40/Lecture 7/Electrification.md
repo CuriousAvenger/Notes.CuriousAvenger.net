@@ -1,4 +1,0 @@
-- Use of more renewable energy source
-- Some transportation sectors cannot be electrified:
-	- Jet fuels are a key area to target - can't yet electrify planes
-	- United flew the first flight (737) from Chicago to DC on 100% sustainable aviation fuel.
