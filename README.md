@@ -1,4 +1,4 @@
-$ Cybersecurity Notes
+# Cybersecurity Notes
 
 Welcome to my personal repository where I document my cybersecurity learning journey, primarily from the HackTheBox Academy. This repository contains concise, organized notes covering various cybersecurity topics, tools, and techniques.
 
