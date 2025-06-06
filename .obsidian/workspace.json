@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/CompTIA PenTest+/Sec2 PenTesting Overview.md",
+                "file": "content/CompTIA PenTest+/Sec2 - PenTesting Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sec2 PenTesting Overview"
+              "title": "Sec2 - PenTesting Overview"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/CompTIA PenTest+/Sec2 PenTesting Overview.md",
+                "file": "content/CompTIA PenTest+/Sec2 - PenTesting Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sec2 PenTesting Overview"
+              "title": "Backlinks for Sec2 - PenTesting Overview"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/CompTIA PenTest+/Sec2 PenTesting Overview.md",
+                "file": "content/CompTIA PenTest+/Sec2 - PenTesting Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sec2 PenTesting Overview"
+              "title": "Outgoing links from Sec2 - PenTesting Overview"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/CompTIA PenTest+/Sec2 PenTesting Overview.md",
+                "file": "content/CompTIA PenTest+/Sec2 - PenTesting Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sec2 PenTesting Overview"
+              "title": "Outline of Sec2 - PenTesting Overview"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "45456171b1164301",
   "lastOpenFiles": [
+    "content/CompTIA PenTest+/Sec13 - Discovering Vulnerabilities.md",
+    "content/CompTIA PenTest+/Sec2 - PenTesting Overview.md",
     "content/CompTIA PenTest+/Sec30 - PenTest Reporting.md",
     "content/CompTIA PenTest+/Sec29 - Remediation Recommendations.md",
     "content/CompTIA PenTest+/Sec28 - Cleanup & Restoration.md",
@@ -187,14 +189,12 @@
     "content/CompTIA PenTest+/Sec16 - Wireless Attacks.md",
     "content/CompTIA PenTest+/Sec15 - Social Engineering Attacks.md",
     "content/CompTIA PenTest+/Sec14 - Vulnerability Discovery Tools.md",
-    "content/CompTIA PenTest+/Sec13 - Discovering Vulnerabilities.md",
     "content/CompTIA PenTest+/Sec12 - Analyzing Scans.md",
     "content/CompTIA PenTest+/Sec11 - Modifying Scripts.md",
     "content/CompTIA PenTest+/Sec10 - Scripting Basics.md",
     "content/CompTIA PenTest+/Sec9 - Nmap & NSE.md",
     "content/CompTIA PenTest+/Sec8 - Recon & Enumeration Tools.md",
     "content/CompTIA PenTest+/Sec7 - Scanning & Enumeration.md",
-    "content/CompTIA PenTest+/Sec6 - Open Source Intelligence.md",
-    "content/CompTIA PenTest+/Sec5 - Information Gathering.md"
+    "content/CompTIA PenTest+/Sec6 - Open Source Intelligence.md"
   ]
 }
