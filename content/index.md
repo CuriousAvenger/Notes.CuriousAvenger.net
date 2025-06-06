@@ -11,7 +11,7 @@ The content is tailored for those looking to quickly grasp the essentials of cyb
 
 # Folder Structure
 > [HackTheBox](HackTheBox/index) - Contains individual topic-based notes, with command examples.  
-> [Workstation](Workstation/index) - Links to all the tools I have "mastered" so far.
+> [Workstation](Workstation/index) - Links to all the tools I have "mastered" so far.  
 > [CompTIA-PenTest+](CompTIA-PenTest+/index) - Contains note used for preparing for the PenTest+ certification.
 
 # Contributing
