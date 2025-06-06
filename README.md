@@ -8,7 +8,8 @@ The content is tailored for those looking to quickly grasp the essentials of cyb
 
 # Folder Structure
 - `/HackTheBox` - Contains individual topic-based notes, with clear headings and command examples.
-- `/Workstation` - Links to all the tools I have "mastered" so far. 
+- `/Workstation` - Links to all the tools I have "mastered" so far.
+- `/CompTia PenTest+` - Contains note used for preparing for the PenTest+ certification.
 
 # Contributing
 Feel free to contribute if you have suggestions or improvements! PRs are welcome.
