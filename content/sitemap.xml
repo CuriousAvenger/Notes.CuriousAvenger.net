@@ -9,472 +9,622 @@
 
 <url>
   <loc>https://notes.curiousavenger.net/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/.</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec2---PenTesting-Overview</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec3---Pre-Engagement-Activities</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec4---Frameworks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec5---Information-Gathering</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec6---Open-Source-Intelligence</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec7---Scanning--and--Enumeration</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec8---Recon--and--Enumeration-Tools</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec9---Nmap--and--NSE</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec10---Scripting-Basics</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec11---Modifying-Scripts</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec12---Analyzing-Scans</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec13---Discovering-Vulnerabilities</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec14---Vulnerability-Discovery-Tools</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec15---Social-Engineering-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec16---Wireless-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec17---Network-Attacls</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec18---Authentication-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec19---Host-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec20---Web-Application-Vulnerabilities</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec21---Web-Application-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec22---Cloud-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec23---Attacking-Specialized-Systems</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec24---Automated-Attacks</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec25---Persistence</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec26---Lateral-Movement</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec27---Exfiltration</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec28---Cleanup--and--Restoration</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec29---Remediation-Recommendations</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/Sec30---PenTest-Reporting</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Introduction/File-Structure</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Introduction/Introduction-to-Shell</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Introduction/Linux-Distributions</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Hardening/Firewall-Setup</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Hardening/Linux-Security</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Hardening/System-Logs</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Networking/Network-Configuration</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Networking/Remote-Desktop-Protocols-in-Linux</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Backup-and-Restore</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Containerization</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/File-System-Management</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Network-Services</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Package-Management</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Service--and--Process-Management</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Task-Scheduling</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/User-Management</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/Web-Services</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/The-Shell/Getting-Help</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/The-Shell/Prompt-Description</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/The-Shell/System-Information</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Editing-Files</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/File-Descriptions--and--Redirections</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Filter-Contents</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Find-Files--and--Directories</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Navigation</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Permission-Management</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Regular-Expressions</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/Working-with-Files-and-Directories</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Additional-Notes/Firewall--and--IDS-IPS-Evasion</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Additional-Notes/Firewall--and--IDS-IPS-Evasion</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Additional-Notes/Introduction-to-MSFVenom</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Additional-Notes/Introduction-to-MSFVenom</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Introduction/Introduction-to-Metasploit</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Introduction/Introduction-to-Metasploit</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Introduction/Introduction-to-MSFconsole</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Introduction/Introduction-to-MSFconsole</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/Databases-MSF</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/Databases-MSF</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/Encoders</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/Encoders</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/Modules</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/Modules</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/Payloads</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/Payloads</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/Plugins--and--Mixins</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/Plugins--and--Mixins</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/Targets</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/Targets</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Sessions/Meterpreter</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Sessions/Meterpreter</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Sessions/Sessions--and--Jobs</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Sessions/Sessions--and--Jobs</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/Intro-to-Databases/Intro-to-Databases</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/Intro-to-Databases/Types-of-Databases</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/MySQL/Intro-to-MySQL</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/MySQL/SQL-Statements</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Introduction/Tooling</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Introduction/Web-Fuzzing</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/Directory--and--File-Fuzzing</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/Filtering-Fuzzing-Output</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/Parameter--and--Value-Fuzzing</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/Recursive-Fuzzing</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/Validating-Findings</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/Virtual-Host--and--Subdomain-Fuzzing</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Web-APIs/API-Fuzzing</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Web-APIs/Identifying-Endpoints</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Web-APIs/Web-Programming-Interfaces</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Fundamentals/HTTP-Headers</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Fundamentals/HTTP-Requests-and-Responses</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Fundamentals/Hypertext-Transfer-Protocol</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Fundamentals/Hypertext-Transfer-Protocol-Secure</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Methods/CRUD-API</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Methods/GET-Method</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Methods/HTTP-Methods-and-Codes</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Methods/POST-Method</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/Workstation/TOOLS</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/Workstation/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://notes.curiousavenger.net/CompTIA-PenTest+/</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Introduction/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Hardening/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Networking/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/System-Management/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/The-Shell/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Workflow/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Additional-Notes/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Additional-Notes/</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Introduction/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Introduction/</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Components/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Components/</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/MSF-Sessions/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/MSF-Sessions/</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/Intro-to-Databases/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/SQL-Injection/MySQL/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Introduction/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Methodologies/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Web-APIs/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Fundamentals/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/HTTP-Methods/</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Linux-Fundamentals/Linux-Fundamentals.pdf</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://notes.curiousavenger.net/HackTheBox/Metasploit-Framework/Using-the-Metasploit-Framework.pdf</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <loc>https://notes.curiousavenger.net/HackTheBox/Using-Metasploit-Framework/Using-the-Metasploit-Framework.pdf</loc>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Fuzzing/Web-Fuzzing.pdf</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://notes.curiousavenger.net/HackTheBox/Web-Requests/Web-Requests.pdf</loc>
-  <lastmod>2025-02-23T02:47:05+00:00</lastmod>
+  <lastmod>2025-06-06T08:05:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
